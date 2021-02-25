@@ -8,5 +8,7 @@ terraform plan
 terraform apply
 
 
+
 when done with infrastructure
+
 terraform destroy
